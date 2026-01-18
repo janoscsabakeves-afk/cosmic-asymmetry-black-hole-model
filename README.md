@@ -1,9 +1,8 @@
 # Cosmic-Asymmetry-Black-Hole-Model
 
-This repository contains reproducible calculations and figures for a speculative black hole cosmology model that explains cosmic asymmetries (e.g., CMB dipole, galaxy spin preference, Hubble tension) without dark matter or energy. The model is based on Popławski's torsion bounce and inherited Kerr spin, verified with SymPy and tested against 2025 JWST/CMB data.
-
-Associated Paper:
-"Cosmic Asymmetries from Inherited Kerr Spin in Torsion Bounce Cosmology"
+This repository contains reproducible calculations and figures for a speculative black hole cosmology model that explains cosmic asymmetries (e.g., CMB dipole, galaxy spin preference, Hubble tension) without dark matter or energy. The model is based on Popławski's torsion bounce and inherited Kerr spin, verified with SymPy and tested against 2025 JWST/CMB data, as described in the paper:
+"The Cosmic Asymmetry Black Hole Cosmological Model: An Alternative Approach to the Structure of the
+Universe" by János Kevés – January 17, 2026.
 
 Features Notebook: supplementary_calculations.ipynb – Reproduces model calculations, SymPy derivations, and figures.
 
