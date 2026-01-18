@@ -7,7 +7,6 @@ Requirements: Python 3.x with SymPy, NumPy, Matplotlib (for figures).
 Data: Based on public JWST/CMB datasets (links in notebook).
 Runtime: Calculations run in ~5-10 minutes on a standard laptop.
 
-UsageClone the repo: git clone https://github.com/janoscsabakeves-afk/cosmic-asymmetry-black-hole-model.git
 Install dependencies: pip install sympy numpy matplotlib (or use requirements.txt if added).
 Run the notebook sequentially in Jupyter.
 
