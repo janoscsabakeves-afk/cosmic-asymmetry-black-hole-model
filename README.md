@@ -23,6 +23,6 @@ git clone https://github.com/janoscsabakeves-afk/cosmic-asymmetry-black-hole-mod
 
 Install dependencies: pip install sympy numpy matplotlib (or use requirements.txt if added).
 
-Run the notebook sequentially in Jupyter. This is a work-in-progress repo. For full details, see paper.pdf. 
+Run the notebook sequentially in Jupyter. This is a work-in-progress repo. For full details, see cosmic-asymmetry-black-hole-model.pdf. 
 
 Contact: janoscsabakeves@gmail.com or @JanosKeves68 on X.
